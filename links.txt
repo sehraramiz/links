@@ -3,3 +3,4 @@ https://mehdix.ir/quantum-cat.html@@@گربه‌ی کوانتومی - مهدی �
 https://molaei.org/tor-archlinux@@@نصب تور در آرچ لینوکس - علی مولایی
 https://webamoozcom.github.io/warning-list@@@لیست هشدار وب آموز
 https://mehdix.ir/noqte.html@@@انتشار فونت نقطه
+https://mehdimj.ir/blog/run-sudo-commands-without-password-by-configuring-sudoers@@@اجرای دستورات به عنوان کاربر root بدون پسورد sudo

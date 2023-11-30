@@ -7,3 +7,4 @@ https://mehdimj.ir/blog/run-sudo-commands-without-password-by-configuring-sudoer
 https://grugbrain.dev@@@The Grug Brained Developer
 http://worrydream.com/refs/Brooks-NoSilverBullet.pdf@@@No Silver Bullet
 https://martinfowler.com/articles/richardsonMaturityModel.html@@@Richardson Maturity Model
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html@@@The Clean Architecture

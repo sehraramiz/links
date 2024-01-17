@@ -8,3 +8,4 @@ http://worrydream.com/refs/Brooks-NoSilverBullet.pdf@@@No Silver Bullet
 https://martinfowler.com/articles/richardsonMaturityModel.html@@@Richardson Maturity Model
 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html@@@The Clean Architecture
 https://hypermedia.systems/book/contents@@@Hypermedia Systems
+https://smartbear.com/learn/api-design/what-is-hypermedia@@@What is Hypermedia? | SmartBear

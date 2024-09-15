@@ -9,3 +9,4 @@ https://martinfowler.com/articles/richardsonMaturityModel.html@@@Richardson Matu
 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html@@@The Clean Architecture
 https://hypermedia.systems/book/contents@@@Hypermedia Systems
 https://smartbear.com/learn/api-design/what-is-hypermedia@@@What is Hypermedia? | SmartBear
+https://dl.acm.org/doi/pdf/10.1145/3648188.3675127@@@Hypermedia Controls: From Feral to Formal

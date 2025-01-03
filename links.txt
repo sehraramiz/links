@@ -1,6 +1,6 @@
 https://molaei.org/the-cathedral-and-the-bazaar@@@کلیسای جامع و بازار
 https://mehdix.ir/quantum-cat.html@@@گربه‌ی کوانتومی - مهدی صادقی
-https://molaei.org/tor-archlinux@@@نصب تور در آرچ لینوکس - علی مولایی
+https://molaei.org/tor/@@@آموزش نصب تور
 https://webamoozcom.github.io/warning-list@@@لیست هشدار وب آموز
 https://mehdix.ir/noqte.html@@@انتشار فونت نقطه
 https://grugbrain.dev@@@The Grug Brained Developer
@@ -11,3 +11,4 @@ https://hypermedia.systems/book/contents@@@Hypermedia Systems
 https://smartbear.com/learn/api-design/what-is-hypermedia@@@What is Hypermedia? | SmartBear
 https://dl.acm.org/doi/pdf/10.1145/3648188.3675127@@@Hypermedia Controls: From Feral to Formal
 https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven@@@REST APIs must be hypertext-driven
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech@@@Protocols, Not Platforms

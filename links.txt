@@ -13,3 +13,5 @@ https://dl.acm.org/doi/pdf/10.1145/3648188.3675127@@@Hypermedia Controls: From F
 https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven@@@REST APIs must be hypertext-driven
 https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech@@@Protocols, Not Platforms
 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm@@@Architectural Styles and the Design of Network-based Software Architectures
+https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm@@@Representational State Transfer (REST)
+https://aosabook.org/en/index.html@@@The Architecture of Open Source Applications

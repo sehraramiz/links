@@ -15,3 +15,4 @@ https://knightcolumbia.org/content/protocols-not-platforms-a-technological-appro
 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm@@@Architectural Styles and the Design of Network-based Software Architectures
 https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm@@@Representational State Transfer (REST)
 https://aosabook.org/en/index.html@@@The Architecture of Open Source Applications
+https://http1mustdie.com@@@HTTP/1 Must Die

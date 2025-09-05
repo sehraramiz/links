@@ -17,3 +17,6 @@ https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm@@@Representa
 https://aosabook.org/en/index.html@@@The Architecture of Open Source Applications
 https://http1mustdie.com@@@HTTP/1 Must Die
 https://theworld.com/~reinhold/diceware.html@@@Diceware Passphrase Home
+https://wiki.futo.org@@@FUTO Self Managed Guide
+https://ssd.eff.org@@@Surveillance Self-Defense
+https://oilandfish.net@@@Oil and Fish (forked)

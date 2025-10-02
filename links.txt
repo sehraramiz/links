@@ -20,3 +20,4 @@ https://theworld.com/~reinhold/diceware.html@@@Diceware Passphrase Home
 https://wiki.futo.org@@@FUTO Self Managed Guide
 https://ssd.eff.org@@@Surveillance Self-Defense
 https://oilandfish.net@@@Oil and Fish (forked)
+https://csarven.ca/linked-research-decentralised-web@@@Linked Research on the Decentralised Web

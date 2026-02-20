@@ -21,3 +21,6 @@ https://wiki.futo.org@@@FUTO Self Managed Guide
 https://ssd.eff.org@@@Surveillance Self-Defense
 https://oilandfish.net@@@Oil and Fish (forked)
 https://csarven.ca/linked-research-decentralised-web@@@Linked Research on the Decentralised Web
+https://jeffhuang.com/designed_to_last@@@This Page is Designed to Last: A Manifesto for Preserving Content on the Web
+https://jeffhuang.com/productivity_text_file@@@My productivity app is a never-ending .txt file
+https://indieweb.org@@@IndieWeb

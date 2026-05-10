@@ -25,3 +25,4 @@ https://jeffhuang.com/designed_to_last@@@This Page is Designed to Last: A Manife
 https://jeffhuang.com/productivity_text_file@@@My productivity app is a never-ending .txt file
 https://indieweb.org@@@IndieWeb
 https://www.raptitude.com/2025/06/how-to-surf-the-web-in-2025-and-why-you-should@@@How to Surf the Web in 2025, and Why You Should
+https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to@@@Write code that is easy to delete, not easy to...
